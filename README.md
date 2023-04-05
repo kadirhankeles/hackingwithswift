@@ -7,7 +7,9 @@
 <p align="center">
 This repository includes all of the projects from Paul Hudson's [100 Days of Swift](https://www.hackingwithswift.com/100) course.
 </p>
+
 ## Preview
+
 | Projects / Topics | Screenshots |
 |--|--|
 | [Project 1](https://github.com/kadirhankeles/hackingwithswift/tree/main/Project-01) - _Storm Viewer_ | <img src="https://user-images.githubusercontent.com/44638560/228283335-343fd416-bdf5-4daf-9541-7a502192579e.gif" alt="ezgif com-resize" width="170" height="280">|
