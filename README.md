@@ -7,6 +7,7 @@
 <center>
 This repository includes all of the projects from Paul Hudson's [100 Days of Swift](https://www.hackingwithswift.com/100) course.
 </center>
+
 ## Preview
 
 | Projects / Topics | Screenshots |
