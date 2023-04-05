@@ -1,10 +1,7 @@
-# Storm Viewer
+# Guess Flag
 
 ## What did I learn in this project?
 
- - I started learning Programmatic UI.
- - I learned how to create objects
- - I learned the navigation control programmatically.
+ - I am trying to learn programmatic ui
 
-
-![ezgif com-resize](https://user-images.githubusercontent.com/44638560/228283335-343fd416-bdf5-4daf-9541-7a502192579e.gif)
+![ezgif com-resize](https://user-images.githubusercontent.com/44638560/228355854-fef0d195-58d2-41f2-b7a5-b003dd919b52.gif)
