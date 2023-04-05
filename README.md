@@ -4,9 +4,9 @@
   <img src="https://camo.githubusercontent.com/6a7566fc3247b3317cd2b6abc1f99ae2d4af1414b078e245927a9d0286d46ad5/68747470733a2f2f692e7974696d672e636f6d2f76692f5242356e577a646c2d62382f6d617872657364656661756c742e6a7067" alt="ezgif com-resize" width="550" height="300">
 </p>
 
-<p align="center">
-This repository includes all of the projects from Paul Hudson's [100 Days of Swift](https://www.hackingwithswift.com/100) course.
-</p>
+
+<center>This repository includes all of the projects from Paul Hudson's [100 Days of Swift](https://www.hackingwithswift.com/100) course.</center>
+
 
 ## Preview
 
