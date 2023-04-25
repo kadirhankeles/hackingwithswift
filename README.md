@@ -24,3 +24,5 @@ This repository includes all of the projects from Paul Hudson's [100 Days of Swi
 |[Project 8](https://github.com/kadirhankeles/hackingwithswift/tree/main/Project-08) - _Swifty Words_ | <img src="https://user-images.githubusercontent.com/44638560/232478016-2898785a-cef9-4da6-bc1c-7d6a45a2abc9.png" alt="ezgif com-resize" width="400" height="280">  |
 | [Project 9](https://github.com/kadirhankeles/hackingwithswift/tree/main/Project-09) - _Grand Central Dispatch_ | No screenshot |
 |[Milestone: Projects 7-9](https://github.com/kadirhankeles/hackingwithswift/tree/main/Milestone:%20Projects%207-9) - _Hangman Game_ | <img src="https://user-images.githubusercontent.com/44638560/234000081-53c0194e-9f3c-4bd9-bc61-98f3ee2d6e8e.png" alt="ezgif com-resize" width="400" height="280">  |
+|[Project 10](https://github.com/kadirhankeles/hackingwithswift/tree/main/Project-10) - _Names to Faces_ | <img src="https://user-images.githubusercontent.com/44638560/234254019-08ad1236-709c-47a0-aaa5-df84e8821767.png" alt="ezgif com-resize" width="400" height="280">  |
+
